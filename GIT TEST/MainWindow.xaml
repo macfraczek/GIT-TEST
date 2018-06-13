@@ -9,6 +9,7 @@
     <Grid>
         <TextBox HorizontalAlignment="Left" Height="23" Margin="161,152,0,0" TextWrapping="Wrap" Text="NAPISE" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
         <Button Content="tttt" HorizontalAlignment="Left" Margin="451,90,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="djobel" HorizontalAlignment="Left" Margin="361,229,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
